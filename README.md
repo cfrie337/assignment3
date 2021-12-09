@@ -24,7 +24,7 @@ https://sleepy-anchorage-34584.herokuapp.com/api/painting/title/dfjkghdfkgh
 
 https://sleepy-anchorage-34584.herokuapp.com/api/painting/color/NAPA
 
-https://sleepy-anchorage-34584.herokuapp.com/api/painting/color/coffee+bean
+https://sleepy-anchorage-34584.herokuapp.com/api/painting/color/coffee%20bean
 
 https://sleepy-anchorage-34584.herokuapp.com/api/painting/color/kcvhvxchbkcj
 
